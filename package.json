@@ -1,12 +1,20 @@
 {
   "name": "starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "It's easy to know the basic information for a country.",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Logic",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwilightLogic/neighbour-contry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TwilightLogic/neighbour-contry/issues"
+  },
+  "homepage": "https://github.com/TwilightLogic/neighbour-contry#readme"
 }
