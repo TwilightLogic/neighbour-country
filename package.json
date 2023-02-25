@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TwilightLogic/neighbour-contry/issues"
   },
-  "homepage": "https://github.com/TwilightLogic/neighbour-contry#readme"
+  "homepage": "https://github.com/TwilightLogic/neighbour-contry#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
 }
